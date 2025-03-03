@@ -1,3 +1,21 @@
+# pnb.mcl: Modeling Core Library
+
+## Github
+
+[https://github.com/pnb-plants-and-bytes/pnb.mcl
+](https://github.com/pnb-plants-and-bytes/pnb.mcl
+)
+
+## PyPI
+
+[https://pypi.org/project/pnb.mcl](https://pypi.org/project/pnb.mcl)
+
+## Documentation
+
+[https://software.plants-and-bytes.de/pnb.mcl/0.1](https://software.plants-and-bytes.de/pnb.mcl/0.1)
+
+## License
+
 MIT License
 
 Copyright (c) 2025 pnb plants & bytes GmbH <info@plants-and-bytes.de>
@@ -19,3 +37,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
